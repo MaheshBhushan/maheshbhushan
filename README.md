@@ -9,7 +9,7 @@
 
 - 📫Reach me Here --> **mkoduri73@gmail.com**
 
-- 📄 Know about my experiences [https://maheshkoduri.netlify.app/](https://maheshkoduri.netlify.app/)
+- 📄 Know about my experiences [Here](https://maheshkoduri.netlify.app/)
 
 - ⚡ Fun fact **The largest known prime number has over 24 million digits.**
 
