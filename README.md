@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning about **LLMs(Large Language Models).**
 
 - 👯 I’m looking to collaborate on **Data Science and AI projects**
-
+  
+- Check out what i built --> [Here](https://financion.dev/)
+  
 - 💬 Let's Discuss about **building new AI tools**
 
 - 📫Reach me Here --> **mkoduri73@gmail.com**
