@@ -11,7 +11,7 @@
 
 - 📫Reach me Here --> **mkoduri73@gmail.com**
 
-- 📄 Know about my experiences [Here](https://maheshkoduri.netlify.app/)
+- 📄 Know about my experiences [Here](https://dev.mahesh.lol/)
 
 - ⚡ Fun fact **The largest known prime number has over 24 million digits.**
 
